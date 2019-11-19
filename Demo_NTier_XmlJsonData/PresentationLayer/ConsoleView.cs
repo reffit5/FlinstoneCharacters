@@ -305,7 +305,7 @@ namespace Demo_NTier_XmlJsonData.PresentationLayer
             //int listNum;
 
             //character.GroceryList = new List<GroceryItem>();
-
+           
             //while (!int.TryParse(Console.ReadLine(), out listNum))
             //{
             //    Console.WriteLine("Please Enter a Valid ID (20, 21, 22, etc)");
